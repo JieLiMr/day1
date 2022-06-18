@@ -1,0 +1,13 @@
+2022-06-07 23:31:57.3325 Info Message Template Auto Format enabled
+2022-06-07 23:31:57.3325 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-07 23:31:57.3325 Info Adding target FileTarget(Name=allfile)
+2022-06-07 23:31:57.3325 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-07 23:31:57.3325 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-07 23:31:57.3325 Info Closing old configuration.
+2022-06-07 23:31:57.3325 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\19083\Desktop\Week3Api\Week3Api\NLog.config
+2022-06-07 23:32:03.8120 Info Message Template Auto Format enabled
+2022-06-07 23:32:03.8294 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-07 23:32:03.8619 Info Adding target FileTarget(Name=allfile)
+2022-06-07 23:32:03.8619 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-07 23:32:03.8637 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-07 23:32:03.8803 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\19083\Desktop\Week3Api\Week3Api\NLog.config
